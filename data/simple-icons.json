@@ -6994,6 +6994,12 @@
 		}
 	},
 	{
+		"title": "Harvester",
+		"hex": "01A284",
+		"source": "https://harvesterhci.io",
+		"guidelines": "https://www.rancher.com/brand-guidelines"
+	},
+	{
 		"title": "HashiCorp",
 		"hex": "000000",
 		"source": "https://www.hashicorp.com",
@@ -9465,6 +9471,12 @@
 		"hex": "005571",
 		"source": "https://www.elastic.co/brand",
 		"guidelines": "https://www.elastic.co/brand"
+	},
+	{
+		"title": "Longhorn",
+		"hex": "60214A",
+		"source": "https://longhorn.io",
+		"guidelines": "https://www.rancher.com/brand-guidelines"
 	},
 	{
 		"title": "Looker",
@@ -13946,6 +13958,12 @@
 		"title": "Rive",
 		"hex": "1D1D1D",
 		"source": "https://rive.app"
+	},
+	{
+		"title": "RKE2",
+		"hex": "2453FF",
+		"source": "https://rke2.io",
+		"guidelines": "https://www.rancher.com/brand-guidelines"
 	},
 	{
 		"title": "roadmap.sh",

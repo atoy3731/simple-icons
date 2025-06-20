@@ -1234,6 +1234,7 @@ update the script at 'scripts/release/update-slugs-table.js'.
 | `HappyCow` | `happycow` |
 | `Harbor` | `harbor` |
 | `HarmonyOS` | `harmonyos` |
+| `Harvester` | `harvester` |
 | `HashiCorp` | `hashicorp` |
 | `Hashnode` | `hashnode` |
 | `Haskell` | `haskell` |
@@ -1661,6 +1662,7 @@ update the script at 'scripts/release/update-slugs-table.js'.
 | `LogMeIn` | `logmein` |
 | `Logseq` | `logseq` |
 | `Logstash` | `logstash` |
+| `Longhorn` | `longhorn` |
 | `Looker` | `looker` |
 | `Loom` | `loom` |
 | `Loop` | `loop` |
@@ -2444,6 +2446,7 @@ update the script at 'scripts/release/update-slugs-table.js'.
 | `Riseup` | `riseup` |
 | `Ritz Carlton` | `ritzcarlton` |
 | `Rive` | `rive` |
+| `RKE2` | `rke2` |
 | `roadmap.sh` | `roadmapdotsh` |
 | `Roam Research` | `roamresearch` |
 | `Robinhood` | `robinhood` |
